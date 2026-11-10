@@ -1,0 +1,10 @@
+{
+  "name": "Rhythm Doctor Sound Pack",
+  "description": "Sounds from Rhythm Doctor for Steam Deck.",
+  "author": "christian80198",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
