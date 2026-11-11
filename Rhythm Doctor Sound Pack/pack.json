@@ -6,14 +6,16 @@
   "manifest_version": 2,
   "music": false,
   "ignore": [
-    "bumper_end.wav,"
+    "bumper_end.wav",
     "confirmation_negative.wav",
     "confirmation_positive.wav",
     "deck_ui_message_toast.wav",
     "deck_ui_misc_01.wav",
     "deck_ui_misc_08.wav",
     "deck_ui_tile_scroll.wav",
-    "pop_sound.wav",
+    "pop_sound.wav"
   ],
-  "mappings": {}
+  "mappings": {
+    "deck_ui_misc_10.wav": ["menu_navigation.wav"]
+  }
 }
